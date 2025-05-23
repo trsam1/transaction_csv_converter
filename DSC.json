@@ -1,0 +1,6 @@
+{
+    "date_field": "Post Date",
+    "description_field": "Description",
+    "amount_field": "Amount",
+    "category_field": "Category"
+}

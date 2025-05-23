@@ -1,0 +1,4 @@
+csv_converter.venv/*
+*.csv
+__pycache__/*
+env.sh
